@@ -1,1 +1,1 @@
-FROM docker.io/library/mongo:4.2.12
+FROM docker.io/library/mongo:4.2.13
